@@ -2,9 +2,11 @@ import spotipy
 import pandas as pd
 from spotipy.oauth2 import SpotifyClientCredentials
 
-client_id = 'f65abe4b2f414904a0a793b742e7ec13'
-client_secret = '9ea9f4fe3188402f93bd99f74897b695'
-username = 'w5ezb9grmm4ufvytnaaeds3j4'
+# fill in your details from spotify here
+client_id = ''
+client_secret = ''
+username = ''
+
 redirect_uri = 'https://localhost:3000'
 
 # Create a Spotify client object with client credentials
