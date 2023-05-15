@@ -1,0 +1,16 @@
+There are 2 folders named Jaimin and Mukul folder, they have:
+ - History Data
+ - Audio Features Data
+ - History Analysis
+ - Audio Features Analysis
+
+Also, there is a Comparitive Analysis notebook in BASE Directory itself
+
+For data preparation of audio features, features_data_preparation.py was used.
+
+NOTE: Do not run the features_data_preparation.py file, as it would need client id, secrect key, etc.
+
+The notebooks can be directly run, as we have provided all the used data.
+Install the required dependencies before running notebooks.
+
+just run 'pip install -r requirements.txt'
